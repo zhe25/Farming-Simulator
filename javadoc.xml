@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="jgoodies-forms-1.8.0.jar;jgoodies-common-1.8.0.jar" destdir="doc" doctitle="Farming Simulator" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="main.java.crops,main.java.helpers,main.java.items,main.java,main.swing,main.java.animals" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
